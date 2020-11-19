@@ -1,0 +1,14 @@
+C:\Users\y.miyano\Desktop\研修\AccessTest\AccessTest\bin\Debug\AccessTest.exe.config
+C:\Users\y.miyano\Desktop\研修\AccessTest\AccessTest\bin\Debug\AccessTest.exe
+C:\Users\y.miyano\Desktop\研修\AccessTest\AccessTest\bin\Debug\AccessTest.pdb
+C:\Users\y.miyano\Desktop\研修\AccessTest\AccessTest\obj\Debug\AccessTest.csprojAssemblyReference.cache
+C:\Users\y.miyano\Desktop\研修\AccessTest\AccessTest\obj\Debug\AccessTest.Properties.Resources.resources
+C:\Users\y.miyano\Desktop\研修\AccessTest\AccessTest\obj\Debug\AccessTest.csproj.GenerateResource.cache
+C:\Users\y.miyano\Desktop\研修\AccessTest\AccessTest\obj\Debug\AccessTest.csproj.CoreCompileInputs.cache
+C:\Users\y.miyano\Desktop\研修\AccessTest\AccessTest\obj\Debug\AccessTest.exe
+C:\Users\y.miyano\Desktop\研修\AccessTest\AccessTest\obj\Debug\AccessTest.pdb
+C:\Users\y.miyano\Desktop\研修\AccessTest\AccessTest\obj\Debug\AccessTest.DB_Resource.resources
+C:\Users\y.miyano\Desktop\研修\AccessTest\AccessTest\obj\Debug\AccessTest.Form_Menu.resources
+C:\Users\y.miyano\Desktop\研修\AccessTest\AccessTest\obj\Debug\AccessTest.Form_Serch.resources
+C:\Users\y.miyano\Desktop\研修\AccessTest\AccessTest\obj\Debug\AccessTest.Form_SelectEntry.resources
+C:\Users\y.miyano\Desktop\研修\AccessTest\AccessTest\obj\Debug\AccessTest.Form_EntryADR.resources
